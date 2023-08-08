@@ -1,5 +1,219 @@
 {
-    "updateTimestamp": 1691193600,
+    "Date": [
+        {
+            "timestamp": 1686873600,
+            "value": 45093
+        },
+        {
+            "timestamp": 1686960000,
+            "value": 45094
+        },
+        {
+            "timestamp": 1687046400,
+            "value": 45095
+        },
+        {
+            "timestamp": 1687132800,
+            "value": 45096
+        },
+        {
+            "timestamp": 1687219200,
+            "value": 45097
+        },
+        {
+            "timestamp": 1687305600,
+            "value": 45098
+        },
+        {
+            "timestamp": 1687392000,
+            "value": 45099
+        },
+        {
+            "timestamp": 1687478400,
+            "value": 45100
+        },
+        {
+            "timestamp": 1687564800,
+            "value": 45101
+        },
+        {
+            "timestamp": 1687651200,
+            "value": 45102
+        },
+        {
+            "timestamp": 1687737600,
+            "value": 45103
+        },
+        {
+            "timestamp": 1687824000,
+            "value": 45104
+        },
+        {
+            "timestamp": 1687910400,
+            "value": 45105
+        },
+        {
+            "timestamp": 1687996800,
+            "value": 45106
+        },
+        {
+            "timestamp": 1688083200,
+            "value": 45107
+        },
+        {
+            "timestamp": 1688169600,
+            "value": 45108
+        },
+        {
+            "timestamp": 1688256000,
+            "value": 45109
+        },
+        {
+            "timestamp": 1688342400,
+            "value": 45110
+        },
+        {
+            "timestamp": 1688428800,
+            "value": 45111
+        },
+        {
+            "timestamp": 1688515200,
+            "value": 45112
+        },
+        {
+            "timestamp": 1688601600,
+            "value": 45113
+        },
+        {
+            "timestamp": 1688688000,
+            "value": 45114
+        },
+        {
+            "timestamp": 1688774400,
+            "value": 45115
+        },
+        {
+            "timestamp": 1688860800,
+            "value": 45116
+        },
+        {
+            "timestamp": 1688947200,
+            "value": 45117
+        },
+        {
+            "timestamp": 1689033600,
+            "value": 45118
+        },
+        {
+            "timestamp": 1689120000,
+            "value": 45119
+        },
+        {
+            "timestamp": 1689206400,
+            "value": 45120
+        },
+        {
+            "timestamp": 1689292800,
+            "value": 45121
+        },
+        {
+            "timestamp": 1689379200,
+            "value": 45122
+        },
+        {
+            "timestamp": 1689465600,
+            "value": 45123
+        },
+        {
+            "timestamp": 1689552000,
+            "value": 45124
+        },
+        {
+            "timestamp": 1689638400,
+            "value": 45125
+        },
+        {
+            "timestamp": 1689724800,
+            "value": 45126
+        },
+        {
+            "timestamp": 1689811200,
+            "value": 45127
+        },
+        {
+            "timestamp": 1689897600,
+            "value": 45128
+        },
+        {
+            "timestamp": 1689984000,
+            "value": 45129
+        },
+        {
+            "timestamp": 1690070400,
+            "value": 45130
+        },
+        {
+            "timestamp": 1690156800,
+            "value": 45131
+        },
+        {
+            "timestamp": 1690243200,
+            "value": 45132
+        },
+        {
+            "timestamp": 1690329600,
+            "value": 45133
+        },
+        {
+            "timestamp": 1690416000,
+            "value": 45134
+        },
+        {
+            "timestamp": 1690502400,
+            "value": 45135
+        },
+        {
+            "timestamp": 1690588800,
+            "value": 45136
+        },
+        {
+            "timestamp": 1690675200,
+            "value": 45137
+        },
+        {
+            "timestamp": 1690761600,
+            "value": 45138
+        },
+        {
+            "timestamp": 1690848000,
+            "value": 45139
+        },
+        {
+            "timestamp": 1690934400,
+            "value": 45140
+        },
+        {
+            "timestamp": 1691020800,
+            "value": 45141
+        },
+        {
+            "timestamp": 1691107200,
+            "value": 45142
+        },
+        {
+            "timestamp": 1691193600,
+            "value": 45143
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 45144
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 45145
+        }
+    ],
+    "updateTimestamp": 1691366400,
     "Total transactions count": [
         {
             "timestamp": 1686873600,
@@ -204,6 +418,14 @@
         {
             "timestamp": 1691193600,
             "value": 142996
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 147157
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 180267
         }
     ],
     "First Deposit accounts": [
@@ -410,6 +632,14 @@
         {
             "timestamp": 1691193600,
             "value": 4118
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 3148
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 5751
         }
     ],
     "Active accounts": [
@@ -616,6 +846,14 @@
         {
             "timestamp": 1691193600,
             "value": 23086
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 7189
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 11918
         }
     ],
     "Deposit token transactions (without NFT)": [
@@ -822,6 +1060,14 @@
         {
             "timestamp": 1691193600,
             "value": 5071
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 4016
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 6835
         }
     ],
     "Withdraw token transactions (without NFT)": [
@@ -1028,6 +1274,14 @@
         {
             "timestamp": 1691193600,
             "value": 1445
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 1950
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 3095
         }
     ],
     "Transfer token transactions (without NFT)": [
@@ -1234,6 +1488,14 @@
         {
             "timestamp": 1691193600,
             "value": 160426
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 168092
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 188849
         }
     ],
     "Gas used": [
@@ -1440,6 +1702,14 @@
         {
             "timestamp": 1691193600,
             "value": 14298864338
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 17916076717
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 33172184097
         }
     ],
     "Average gas price - BNB": [
@@ -1646,6 +1916,14 @@
         {
             "timestamp": 1691193600,
             "value": 1.16e-9
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 3.09e-10
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 6.55e-10
         }
     ],
     "Average block time(second)": [
@@ -1851,6 +2129,14 @@
         },
         {
             "timestamp": 1691193600,
+            "value": 1
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 1
+        },
+        {
+            "timestamp": 1691366400,
             "value": 1
         }
     ],
@@ -2058,6 +2344,14 @@
         {
             "timestamp": 1691193600,
             "value": 1316.7
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 1429.55
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 2347.16
         }
     ],
     "Block count": [
@@ -2263,6 +2557,14 @@
         },
         {
             "timestamp": 1691193600,
+            "value": 86400
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 86400
+        },
+        {
+            "timestamp": 1691366400,
             "value": 86400
         }
     ],
@@ -2470,6 +2772,14 @@
         {
             "timestamp": 1691193600,
             "value": 20302
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 6108
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 9446
         }
     ],
     "Send to accounts": [
@@ -2676,6 +2986,14 @@
         {
             "timestamp": 1691193600,
             "value": 647
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 600
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 600
         }
     ],
     "Deposit NFTs transactions": [
@@ -2882,6 +3200,14 @@
         {
             "timestamp": 1691193600,
             "value": 10
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 8
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 24
         }
     ],
     "Withdraw NFTs transactions": [
@@ -3088,6 +3414,14 @@
         {
             "timestamp": 1691193600,
             "value": 0
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 0
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 3
         }
     ],
     "Transfer NFTs transactions": [
@@ -3294,6 +3628,14 @@
         {
             "timestamp": 1691193600,
             "value": 8352
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 39832
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 54968
         }
     ],
     "Total cost (BNB) (=Submit L2 transactions cost +Propose L2 Output cost )": [
@@ -3500,6 +3842,14 @@
         {
             "timestamp": 1691193600,
             "value": 1.717161
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 2.177837
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 4.696601
         }
     ],
     "Submit L2 transactions cost (wei)": [
@@ -3706,6 +4056,14 @@
         {
             "timestamp": 1691193600,
             "value": 1561601920000000000
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 2022710380000000000
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 4541042300000000000
         }
     ],
     "Propose L2 Output cost (wei)": [
@@ -3912,6 +4270,14 @@
         {
             "timestamp": 1691193600,
             "value": 155558700000000000
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 155126640000000000
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 155558880000000000
         }
     ],
     "Total revenue (BNB)(=L1 data fee revenue+L2 execution fee revenue)": [
@@ -4118,6 +4484,14 @@
         {
             "timestamp": 1691193600,
             "value": 20.15513
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 18.48719
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 50.93674
         }
     ],
     "L1 data fee revenue (wei)": [
@@ -4324,6 +4698,14 @@
         {
             "timestamp": 1691193600,
             "value": 2969006700000000000
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 4078951500000000000
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 10177583000000000000
         }
     ],
     "L2 execution fee revenue (wei)": [
@@ -4530,6 +4912,14 @@
         {
             "timestamp": 1691193600,
             "value": 17186124000000000000
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 14408235000000000000
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 40759161000000000000
         }
     ],
     "L2 base fee (wei)": [
@@ -4736,6 +5126,14 @@
         {
             "timestamp": 1691193600,
             "value": 114390914704
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 143328613736
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 265377472776
         }
     ],
     "L2 tip fee / priority fee (wei)": [
@@ -4942,6 +5340,14 @@
         {
             "timestamp": 1691193600,
             "value": 17186123740000000000
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 14408235210000000000
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 40759160860000000000
         }
     ],
     "total gas price (wei)": [
@@ -5148,6 +5554,14 @@
         {
             "timestamp": 1691193600,
             "value": 166198285817253
+        },
+        {
+            "timestamp": 1691280000,
+            "value": 45398677365119
+        },
+        {
+            "timestamp": 1691366400,
+            "value": 118069197648371
         }
     ]
 }
