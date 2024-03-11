@@ -206,5 +206,13 @@
 	"0x2c0a7bf6ae7856a49e3cacf583ed327768adf9bd": {
 		"tag": "Animate | QORPO",
 		"hover": "Gaming/ NFT"
+	},
+	"0xdeaddeaddeaddeaddeaddeaddeaddeaddead0001": {
+		"tag": "System",
+		"hover": "Defi"
+	},
+	"0x4200000000000000000000000000000000000007": {
+		"tag": "System1",
+		"hover": "Defi"
 	}
 }
