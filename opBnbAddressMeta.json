@@ -603,5 +603,67 @@
         "type": "warning"
       }
     ]
+  },
+  "0xae9a7740352Bd4E3f23D7725AcF7D91b8091059D": {
+    "name": "Red Alarm Contract",
+    "tags": [
+      {
+        "name": "Red Alarm Contract",
+        "desc": "MLM scheme contract",
+        "link": "https://baidu.com",
+        "type": "warning"
+      }
+    ]
+  },
+"0xc0d396daa249fd772747d4fa29d899d70d212340": {
+    "name": "Red Alarm Contract",
+    "tags": [
+      {
+        "name": "Red Alarm Contract",
+        "desc": "MLM scheme contract",
+        "link": "",
+        "type": "error"
+      }
+    ]
+  },
+"0x2c0a7bf6ae7856a49e3cacf583ed327768adf9bd": {
+    "name": "Animate | QORPO",
+    "tags": [
+      {
+        "name": "Animate | QORPO",
+        "desc": "Gaming/ NFT",
+        "link": "",
+        "type": "success"
+      }
+    ]
+  },
+  "0x5aa7f148275B912b725333f143250a1e5c7A7e62": {
+    "name": "Edu3Labs",
+    "tags": [
+      {
+        "name": "Edu3Labs",
+        "desc": "SocialFi",
+        "link": "",
+        "type": "info"
+      },
+      {
+        "name": "Edu3Labs",
+        "desc": "SocialFi warning",
+        "link": "https://nodereal.io",
+        "type": "warning"
+      },
+      {
+        "name": "Edu3Labs",
+        "desc": "SocialFi error",
+        "link": "",
+        "type": "error"
+      },
+      {
+        "name": "Edu3Labs",
+        "desc": "SocialFi success",
+        "link": "",
+        "type": "success"
+      }
+    ]
   }
 }
