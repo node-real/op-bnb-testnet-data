@@ -665,5 +665,34 @@
         "type": "success"
       }
     ]
+  },
+  "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3": {
+    "name": "TUSD",
+    "tags": [
+      {
+        "name": "TUSD",
+        "desc": "TUSD",
+        "link": "",
+        "type": "info"
+      },
+      {
+        "name": "TUSD",
+        "desc": "TUSD warning",
+        "link": "https://nodereal.io",
+        "type": "warning"
+      },
+      {
+        "name": "TUSD",
+        "desc": "TUSD error",
+        "link": "",
+        "type": "error"
+      },
+      {
+        "name": "TUSD",
+        "desc": "TUSD success",
+        "link": "",
+        "type": "success"
+      }
+    ]
   }
 }
