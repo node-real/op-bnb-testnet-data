@@ -49,6 +49,7 @@
     "tags": [
       {
         "name": "PoP Planet",
+        "desc": "SocialFi",
         "type": "info"
       }
     ]
@@ -67,6 +68,7 @@
     "tags": [
       {
         "name": "Stork Network",
+        "desc": "Infra",
         "type": "info"
       }
     ]
@@ -103,6 +105,7 @@
     "tags": [
       {
         "name": "BabyDoge",
+        "desc": "SocialFi",
         "type": "info"
       }
     ]
@@ -112,6 +115,7 @@
     "tags": [
       {
         "name": "BabyDoge",
+        "desc": "SocialFi",
         "type": "info"
       }
     ]
@@ -121,6 +125,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -130,6 +135,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -139,6 +145,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -148,6 +155,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -157,6 +165,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -166,6 +175,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -175,6 +185,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -184,6 +195,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -193,6 +205,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -202,6 +215,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -211,6 +225,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -220,6 +235,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -229,6 +245,7 @@
     "tags": [
       {
         "name": "iZUMi",
+        "desc": "DeFi",
         "type": "info"
       }
     ]
@@ -238,6 +255,7 @@
     "tags": [
       {
         "name": "Thena",
+        "desc": "Infra",
         "type": "info"
       }
     ]
@@ -247,6 +265,7 @@
     "tags": [
       {
         "name": "Thena",
+        "desc": "Infra",
         "type": "info"
       }
     ]
@@ -256,6 +275,7 @@
     "tags": [
       {
         "name": "Thena",
+        "desc": "Infra",
         "type": "info"
       }
     ]
@@ -265,6 +285,7 @@
     "tags": [
       {
         "name": "Thena",
+        "desc": "Infra",
         "type": "info"
       }
     ]
@@ -283,6 +304,7 @@
     "tags": [
       {
         "name": "eTukTuk",
+        "desc": "SocialFi",
         "type": "info"
       }
     ]
@@ -400,6 +422,7 @@
     "tags": [
       {
         "name": "Edu3Labs",
+        "desc": "SocialFi",
         "type": "info"
       }
     ]
@@ -409,6 +432,7 @@
     "tags": [
       {
         "name": "Edu3Labs",
+        "desc": "SocialFi",
         "type": "info"
       }
     ]
@@ -418,20 +442,8 @@
     "tags": [
       {
         "name": "Edu3Labs",
+        "desc": "SocialFi",
         "type": "info"
-      },
-      {
-        "name": "Edu3Labs",
-        "link": "https://nodereal.io",
-        "type": "warning"
-      },
-      {
-        "name": "Edu3Labs",
-        "type": "error"
-      },
-      {
-        "name": "Edu3Labs",
-        "type": "success"
       }
     ]
   },
@@ -440,6 +452,7 @@
     "tags": [
       {
         "name": "Edu3Labs",
+        "desc": "SocialFi",
         "type": "info"
       }
     ]
@@ -449,6 +462,7 @@
     "tags": [
       {
         "name": "VORPAL",
+        "desc": "Gaming/ NFT",
         "type": "info"
       }
     ]
@@ -458,6 +472,7 @@
     "tags": [
       {
         "name": "VORPAL",
+        "desc": "Gaming/ NFT",
         "type": "info"
       }
     ]
@@ -476,7 +491,8 @@
     "tags": [
       {
         "name": "Animate | QORPO",
-        "type": "success"
+        "desc": "Gaming/ NFT",
+        "type": "info"
       }
     ]
   },
@@ -485,7 +501,9 @@
     "tags": [
       {
         "name": "Red Alarm Contract",
-        "type": "warning"
+        "desc": "MLM scheme contract",
+        "link": "",
+        "type": "error"
       }
     ]
   },
@@ -494,8 +512,8 @@
     "tags": [
       {
         "name": "Red Alarm Contract",
-        "link": "https://baidu.com",
-        "type": "warning"
+        "desc": "MLM scheme contract",
+        "type": "error"
       }
     ]
   },
@@ -504,29 +522,8 @@
     "tags": [
       {
         "name": "Red Alarm Contract",
+        "desc": "MLM scheme contract",
         "type": "error"
-      }
-    ]
-  },
-  "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3": {
-    "name": "TUSD",
-    "tags": [
-      {
-        "name": "TUSD",
-        "type": "info"
-      },
-      {
-        "name": "TUSD",
-        "link": "https://google.com",
-        "type": "warning"
-      },
-      {
-        "name": "TUSD",
-        "type": "error"
-      },
-      {
-        "name": "TUSD",
-        "type": "success"
       }
     ]
   }
